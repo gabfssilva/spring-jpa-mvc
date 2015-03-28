@@ -1,0 +1,1 @@
+insert into USER (IDT_USER, DES_USERNAME, DES_PASSWORD) values(0, 'gabriel', '123');
